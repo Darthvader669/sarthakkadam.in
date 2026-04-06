@@ -1,15 +1,15 @@
 # sarthakkadam.in# My Portfolio Website
 
-## 👤 About Me
+ About Me
 I am sarthak, a B.Tech CSE student at MIT VPU.
-My goal is to become a software engineer.
+studying to be a software engineer.
 
-## 💻 Technologies Used
+Technologies Used
 - HTML
 - CSS
 - JavaScript
-
-## 🌐 Live Website
+-
+-  Live Website
 https://yourusername.github.io/portfolio-website/
 
 ## 📁 Features
