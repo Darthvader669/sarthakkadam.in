@@ -10,7 +10,7 @@ Technologies Used
 - JavaScript
 -
 -  Live Website
-https://yourusername.github.io/portfolio-website/
+
 
 ## 📁 Features
 - Dark theme design
